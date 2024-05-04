@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:movies/screens/details_screen.dart';
 
-import 'api/api.dart';
-import 'models/post.dart';
+import '../api/api.dart';
+import '../models/post.dart';
 
 class FilmWidget extends StatefulWidget {
   final String filmImg;
