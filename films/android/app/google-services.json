@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "507607967475",
+    "project_id": "film-64e75",
+    "storage_bucket": "film-64e75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507607967475:android:aafda641e067663b863986",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507607967475-s3e73tisdfinkau0hsi76cld4v54nek2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWxyRTqlzB3IMbVTiEHTHIb5ckbV31Wxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507607967475-s3e73tisdfinkau0hsi76cld4v54nek2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "507607967475-5to931keeb2cm39er91d6844a5oou4jp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.films"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507607967475:android:147fea87a85295f5863986",
+        "android_client_info": {
+          "package_name": "com.example.films"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507607967475-cnatto8lq8e8gpls06m9rinbl6fflr79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.films",
+            "certificate_hash": "7d5362dde6d42173e7ad3a7dd6775ee1e02d268b"
+          }
+        },
+        {
+          "client_id": "507607967475-s3e73tisdfinkau0hsi76cld4v54nek2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWxyRTqlzB3IMbVTiEHTHIb5ckbV31Wxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507607967475-s3e73tisdfinkau0hsi76cld4v54nek2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "507607967475-5to931keeb2cm39er91d6844a5oou4jp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.films"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
